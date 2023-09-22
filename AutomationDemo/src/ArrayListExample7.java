@@ -19,7 +19,8 @@ public class ArrayListExample7 {
 			}
 		}
 		
-			
+		//jhzgsf++++
+			//nbdn +++++++++++
 		System.out.println(al);
 	}
 
